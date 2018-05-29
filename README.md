@@ -1,3 +1,10 @@
+# Archived
+
+This has been merged with [spent](https://github.com/idealisms/spent). | 
+---------------------------------------------------------------------- | 
+Original description preserved below. |
+
+
 # Scripts for Downloading Credit Card and Bank Transactions
 
 This is a set of Node.js scripts using [Puppeteer](https://github.com/GoogleChrome/puppeteer/) to sign in to bank accounts and download bank transactions.
@@ -15,4 +22,4 @@ wget https://launchpad.net/~chromium-team/+archive/ubuntu/beta/+build/14381587/+
 wget https://launchpad.net/~chromium-team/+archive/ubuntu/beta/+build/14381587/+files/chromium-browser_65.0.3325.88-0ubuntu0.17.10.1_armhf.deb; sudo dpkg -i chromium-browser_65.0.3325.88-0ubuntu0.17.10.1_armhf.deb
 ```
 
-I found this in the issue tracker: https://github.com/GoogleChrome/puppeteer/issues/550.
+I found this in the issue tracker: https://github.com/GoogleChrome/puppeteer/issues/550
